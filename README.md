@@ -1,41 +1,111 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://rishavchanda.io)
-<h1 align="center">Hi 👋, I'm Bryan Tineo</h1>
-<h3 align="center">A passionate full stack Web Developer from US</h3>
-<img align="right" alt="Coding Tux" width="100" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bryanmax9&label=Profile%20views&color=0e75b6&style=flat" alt="bryanmax9" /> </p>
+<table align="right">
+ <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" height="13"> English</a></td></tr>
+ <tr><td><a href="README_es.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" height="13"> Español</a></td></tr>
+ <tr><td><a href="README_jp.md"><img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" height="13"> 日本語</a></td></tr>
+ <tr><td><a href="README_pt.md"><img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" height="13"> Português</a></td></tr>
+ <tr><td><a href="README_fr.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" height="13"> Français</a></td></tr>
+ <tr><td><a href="README_zh.md"><img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" height="13"> 中文</a></td></tr>
+</table>
+
+<div align="center">
+  <h1>Hi there, I'm Bryan Tineo! 👋</h1>
+  <h3>A passionate Full Stack Web Developer from the US 🌐</h3>
+</div>
+
+<table>
+  <tr>
+    <td><img alt="Coding Tux" width="150" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"></td>
+    <td valign="top">
+      <p>- 🔭 I’m currently working on <a href="https://tijerazotelaspage.netlify.app/">Tijerazo Telas Website</a></p>
+      <p>- 🌱 I’m currently learning <strong>React Native</strong></p>
+      <p>- 👨‍💻 Check out my projects: <a href="http://bryantineoportafolio.com/">Bryan Tineo's Portfolio</a></p>
+      <p>- 📝 Read my articles: <a href="https://bryantineo.hashnode.dev/">Bryan Tineo on Hashnode</a></p>
+      <p>- 💬 Ask me about <strong>Web Development, App development, Node.js, Python</strong></p>
+      <p>- 📫 Reach me at: <strong>brillant16.gcv@gmail.com</strong></p>
+      <p>- 📄 My resume: <a href="https://drive.google.com/file/d/1zS7BeSBFugk7g5LWpGLnJNcnXhMUnHG1/view?usp=sharing">Download Here</a></p>
+      <p>- ⚡ Fun fact: <strong>I love playing the guitar in my free time 🎸</strong></p>
+    </td>
+  </tr>
+</table>
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-- 🔭 I’m currently working on [Tijerazo Telas Website](https://tijerazotelaspage.netlify.app/)
-
-- 🌱 I’m currently learning **React Native**
-
-- 👨‍💻 All of my projects are available at [http://bryantineoportafolio.com/](http://bryantineoportafolio.com/)
-
-- 📝 I regularly write articles on [https://bryantineo.hashnode.dev/](https://bryantineo.hashnode.dev/)
-
-- 💬 Ask me about **Web Development, App development, Node.js, Python**
-
-- 📫 How to reach me **brillant16.gcv@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zS7BeSBFugk7g5LWpGLnJNcnXhMUnHG1/view?usp=sharing](https://drive.google.com/file/d/1zS7BeSBFugk7g5LWpGLnJNcnXhMUnHG1/view?usp=sharing)
-
-- ⚡ Fun fact **I like to play guitar in my free time**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/bryan-tineo/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/bryan-tineo/" height="30" width="40" /></a>
-<a href="https://hashnode.com/@bryanmax9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@bryanmax9" height="30" width="40" /></a>
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/bryan-tineo/" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/bryan-tineo/" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://hashnode.com/@bryanmax9" target="blank">
+    <img src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="@bryanmax9" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:brillant16.gcv@gmail.com?subject=Message from GitHub">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="brillant16.gcv@gmail.com" />
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" alt="swift" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bryanmax9&show_icons=true&locale=en&layout=compact" alt="bryanmax9" /></p>
+<details>
+  <summary><b>:computer: &nbsp;Main tech knowledge:</b></summary>
+  <br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bryanmax9&show_icons=true&locale=en" alt="bryanmax9" /></p>
+  ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?&style=flat&logo=swift&logoColor=white)&nbsp;
+![C#](https://img.shields.io/badge/C%23-%23239120.svg?&style=flat&logo=c-sharp&logoColor=white)&nbsp;
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![Batch](https://img.shields.io/badge/Batch-000000.svg?&style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![NodeJS](https://img.shields.io/badge/Node.js-43853D.svg?&style=flat&logo=node.js&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![Linux](https://img.shields.io/badge/Linux-FCC624.svg?&style=flat&logo=linux&logoColor=black)&nbsp;
+![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000.svg?&style=flat&logo=red-hat&logoColor=white)&nbsp;
+![CentOS](https://img.shields.io/badge/CentOS-262577.svg?&style=flat&logo=centos&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791.svg?&style=flat&logo=postgresql&logoColor=white)&nbsp;
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-009688.svg?&style=flat&logo=sqlalchemy&logoColor=white)&nbsp;
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098.svg?&style=flat&logo=graphql&logoColor=white)&nbsp;
+![VSCode](https://img.shields.io/badge/VSCode-007ACC.svg?&style=flat&logo=visual-studio-code&logoColor=white)&nbsp;
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?&style=flat&logo=intellij-idea&logoColor=white)&nbsp;
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B.svg?&style=flat&logo=mongodb&logoColor=white)&nbsp;
+
+
+</details>
+
+<details>
+  <summary><b>:brain: &nbsp;Other knowledge, but always learning:</b></summary>
+  <br/>
+
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=flat&logo=python&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JAVASCRIPT-323330.svg?&style=flat&logo=javascript&logoColor=%23F7DF1E)&nbsp;
+![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
+![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?&style=flat&logo=sass&logoColor=white)&nbsp;
+![React Native](https://img.shields.io/badge/React_Native-20232A.svg?&style=flat&logo=react&logoColor=61DAFB)&nbsp;
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
+![Batch](https://img.shields.io/badge/Batch-000000.svg?&style=flat&logo=gnu-bash&logoColor=white)&nbsp;
+![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-232F3E.svg?&style=flat&logo=amazon-aws&logoColor=white)&nbsp;
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF.svg?&style=flat&logo=github-actions&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/GITHUB-%23121011.svg?&style=flat&logo=github&logoColor=white)&nbsp;
+![Thymeleaf](https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=flat&logo=thymeleaf&logoColor=white)&nbsp;
+
+</details>
+
+
+
+
+<details>
+  <summary><b>:gear: &nbsp;GitHub Statistics:</b></summary>
+  <br/>
+  <p align="center">
+    <img height="137px" src="https://github-readme-streak-stats.herokuapp.com/?user=bryanmax9&hide_border=true&theme=nightowl" />
+  </p>
+  <p align="center">
+    <img height="137px" src="https://github-readme-stats.vercel.app/api?username=bryanmax9&hide_title=true&hide_border=true&show_icons=true&line_height=21&theme=nightowl" /> <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bryanmax9&langs_count=8&theme=nightowl&hide=html&hide_title=true&hide_border=true&layout=compact" />
+  </p>
+</details>
+
 
 
