@@ -18,7 +18,7 @@
   <tr>
     <td><img alt="Coding Tux" width="150" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"></td>
     <td valign="top">
-      
+     <td>
       <p>- 🌱 I’m currently learning <strong>React Native</strong></p>
       <p>- 👨‍💻 Check out my projects: <a href="http://bryantineoportafolio.com/">Bryan Tineo's Portfolio</a></p>
       <p>- 📝 Read my articles: <a href="https://bryantineo.hashnode.dev/">Bryan Tineo on Hashnode</a></p>
