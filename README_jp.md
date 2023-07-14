@@ -16,7 +16,6 @@
   <tr>
     <td><img alt="Coding Tux" width="150" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"></td>
     <td valign="top">
-      <p>- 🔭現在は<a href="https://tijerazotelaspage.netlify.app/">Tijerazo Telasウェブサイト</a>で働いています</p>
       <p>- 🌱現在は<strong>React Native</strong>を学んでいます</p>
       <p>- 👨‍💻私のプロジェクトをチェックしてください：<a href="http://bryantineoportafolio.com/">ブライアン・ティネオのポートフォリオ</a></p>
       <p>- 📝記事を読んでください：<a href="https://bryantineo.hashnode.dev/">ハッシュノードでのブライアン・ティネオ</a></p>
