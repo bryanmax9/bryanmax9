@@ -17,7 +17,6 @@
   <tr>
     <td><img alt="编码Tux" width="150" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"></td>
     <td valign="top">
-      <p>- 🔭 我正在开发<a href="https://tijerazotelaspage.netlify.app/">Tijerazo Telas网站</a></p>
       <p>- 🌱 我正在学习<strong>React Native</strong></p>
       <p>- 👨‍💻 查看我的项目：<a href="http://bryantineoportafolio.com/">Bryan Tineo的个人作品集</a></p>
       <p>- 📝 阅读我的文章：<a href="https://bryantineo.hashnode.dev/">Bryan Tineo的Hashnode</a></p>
