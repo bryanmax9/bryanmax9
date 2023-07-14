@@ -16,7 +16,6 @@
   <tr>
     <td><img alt="Coding Tux" width="150" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"></td>
     <td valign="top">
-      <p>- 🔭 Atualmente estou trabalhando no <a href="https://tijerazotelaspage.netlify.app/">Website Tijerazo Telas</a></p>
       <p>- 🌱 Atualmente estou aprendendo <strong>React Native</strong></p>
       <p>- 👨‍💻 Confira meus projetos: <a href="http://bryantineoportafolio.com/">Portfólio de Bryan Tineo</a></p>
       <p>- 📝 Leia meus artigos: <a href="https://bryantineo.hashnode.dev/">Bryan Tineo no Hashnode</a></p>
