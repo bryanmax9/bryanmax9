@@ -21,7 +21,7 @@
      <td>
       <p>- 🌱 I’m currently learning <strong>React Native</strong></p>
       <p>- 👨‍💻 Check out my projects: <a href="http://bryantineoportafolio.com/">Bryan Tineo's Portfolio</a></p>
-      <p>- 📝 Read my articles: <a href="https://bryantineo.hashnode.dev/">Bryan Tineo on Hashnode</a></p>
+      <p>- 📝 Read my articles: <a href="https://www.instagram.com/hacker_ducky_ai/">CyberSecurity Blog</a></p>
       <p>- 💬 Ask me about <strong>Web Development, App development, Node.js, Python</strong></p>
       <p>- 📫 Reach me at: <strong>brillant16.gcv@gmail.com</strong></p>
       <p>- 📄 My resume: <a href="https://drive.google.com/file/d/1zS7BeSBFugk7g5LWpGLnJNcnXhMUnHG1/view?usp=sharing">Download Here</a></p>
