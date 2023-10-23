@@ -20,7 +20,7 @@
     <td valign="top">
      <td>
       <p>- 🌱 I’m currently learning <strong>React Native</strong></p>
-      <p>- 👨‍💻 Check out my projects: <a href="http://bryantineoportafolio.com/">Bryan Tineo's Portfolio</a></p> https://codepen.io/bryanmax9
+      <p>- 👨‍💻 Check out my projects: <a href="http://bryantineoportafolio.com/">Bryan Tineo's Portfolio</a></p>
       <p>- 📄 My Front-end work: <a href="https://codepen.io/bryanmax9">Navigate through Front-End Projects</a></p>
       <p>- 📝 Read my articles: <a href="https://www.instagram.com/hacker_ducky_ai/">CyberSecurity Blog</a></p>
       <p>- 💬 Ask me about <strong>Web Development, App development, Node.js, Python</strong></p>
