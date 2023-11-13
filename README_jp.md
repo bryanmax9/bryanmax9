@@ -17,7 +17,7 @@
     <td><img alt="Coding Tux" width="150" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"></td>
     <td valign="top">
       <p>- 🌱現在は<strong>React Native</strong>を学んでいます</p>
-      <p>- 👨‍💻私のプロジェクトをチェックしてください：<a href="http://bryantineoportafolio.com/">ブライアン・ティネオのポートフォリオ</a></p>
+      <p>- 👨‍💻私のプロジェクトをチェックしてください：<a href="https://bryantineoccasani-portafolio-web.netlify.app/">ブライアン・ティネオのポートフォリオ</a></p>
       <p>- 📝記事を読んでください：<a href="https://bryantineo.hashnode.dev/">ハッシュノードでのブライアン・ティネオ</a></p>
       <p>- 💬<strong>Web開発、アプリ開発、Node.js、Python</strong>について質問してください</p>
       <p>- 📫<strong>brillant16.gcv@gmail.com</strong>で連絡してください</p>
