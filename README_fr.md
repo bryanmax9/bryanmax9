@@ -19,7 +19,7 @@
     <td valign="top">
       <td>
       <p>- 🌱 J'apprends actuellement <strong>React Native</strong></p>
-      <p>- 👨‍💻 Découvrez mes projets : <a href="http://bryantineoportafolio.com/">Portfolio de Bryan Tineo</a></p>
+      <p>- 👨‍💻 Découvrez mes projets : <a href="https://bryantineoccasani-portafolio-web.netlify.app/">Portfolio de Bryan Tineo</a></p>
       <p>- 📝 Lisez mes articles : <a href="https://bryantineo.hashnode.dev/">Bryan Tineo sur Hashnode</a></p>
       <p>- 💬 Posez-moi des questions sur <strong>Développement Web, Développement d'applications, Node.js, Python</strong></p>
       <p>- 📫 Contactez-moi à : <strong>brillant16.gcv@gmail.com</strong></p>
