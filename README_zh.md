@@ -18,7 +18,7 @@
     <td><img alt="编码Tux" width="150" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"></td>
     <td valign="top">
       <p>- 🌱 我正在学习<strong>React Native</strong></p>
-      <p>- 👨‍💻 查看我的项目：<a href="http://bryantineoportafolio.com/">Bryan Tineo的个人作品集</a></p>
+      <p>- 👨‍💻 查看我的项目：<a href="https://bryantineoccasani-portafolio-web.netlify.app/">Bryan Tineo的个人作品集</a></p>
       <p>- 📝 阅读我的文章：<a href="https://bryantineo.hashnode.dev/">Bryan Tineo的Hashnode</a></p>
       <p>- 💬 向我询问关于<strong>Web开发、App开发、Node.js、Python</strong>的问题</p>
       <p>- 📫 联系我：<strong>brillant16.gcv@gmail.com</strong></p>
