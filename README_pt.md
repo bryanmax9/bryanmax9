@@ -17,7 +17,7 @@
     <td><img alt="Coding Tux" width="150" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"></td>
     <td valign="top">
       <p>- 🌱 Atualmente estou aprendendo <strong>React Native</strong></p>
-      <p>- 👨‍💻 Confira meus projetos: <a href="http://bryantineoportafolio.com/">Portfólio de Bryan Tineo</a></p>
+      <p>- 👨‍💻 Confira meus projetos: <a href="https://bryantineoccasani-portafolio-web.netlify.app/">Portfólio de Bryan Tineo</a></p>
       <p>- 📝 Leia meus artigos: <a href="https://bryantineo.hashnode.dev/">Bryan Tineo no Hashnode</a></p>
       <p>- 💬 Pergunte-me sobre <strong>Desenvolvimento Web, Desenvolvimento de Aplicativos, Node.js, Python</strong></p>
       <p>- 📫 Entre em contato comigo: <strong>brillant16.gcv@gmail.com</strong></p>
