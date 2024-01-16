@@ -10,7 +10,8 @@
 </table>
 
 <div align="center">
-  <h1>Hi there, I'm Bryan Tineo! 👋</h1>
+  <h1>Hi there, I'm Bryan Tineo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+  <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
   <h3>A passionate Full Stack Web Developer from the US 🌐</h3>
 </div>
 
@@ -47,6 +48,7 @@
 </p>
 
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
 <details>
   <summary><b>:computer: &nbsp;Main tech knowledge:</b></summary>
   <br/>
