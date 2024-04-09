@@ -1,12 +1,12 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://rishavchanda.io)
 
 <table align="right">
- <tr><td><a href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" height="13"> English</a></td></tr>
- <tr><td><a href="README_es.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" height="13"> Español</a></td></tr>
- <tr><td><a href="README_jp.md"><img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" height="13"> 日本語</a></td></tr>
- <tr><td><a href="README_pt.md"><img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" height="13"> Português</a></td></tr>
- <tr><td><a href="README_fr.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" height="13"> Français</a></td></tr>
- <tr><td><a href="README_zh.md"><img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" height="13"> 中文</a></td></tr>
+ <tr><td><a style="text-decoration:none href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" height="13"> English</a></td></tr>
+ <tr><td><a style="text-decoration:none href="README_es.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" height="13"> Español</a></td></tr>
+ <tr><td><a style="text-decoration:none href="README_jp.md"><img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" height="13"> 日本語</a></td></tr>
+ <tr><td><a style="text-decoration:none href="README_pt.md"><img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" height="13"> Português</a></td></tr>
+ <tr><td><a style="text-decoration:none href="README_fr.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" height="13"> Français</a></td></tr>
+ <tr><td><a style="text-decoration:none href="README_zh.md"><img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" height="13"> 中文</a></td></tr>
 </table>
 
 <div align="center">
@@ -21,12 +21,12 @@
     <td valign="top">
      <td>
       <p>- 🌱 I’m currently learning <strong>React Native</strong></p>
-      <p>- 👨‍💻 Check out my projects: <a href="https://bryantineoccasani-portafolio-web.netlify.app/">Bryan Tineo's Portfolio</a></p>
-      <p>- 📄 My Front-end work: <a href="https://codepen.io/bryanmax9">Navigate through Front-End Projects</a></p>
-      <p>- 📝 Read my articles: <a href="https://www.instagram.com/hacker_ducky_ai/">CyberSecurity Blog</a></p>
+      <p>- 👨‍💻 Check out my projects: <a style="text-decoration:none" href="https://bryantineoccasani-portafolio-web.netlify.app/">Bryan Tineo's Portfolio</a></p>
+      <p>- 📄 My Front-end work: <a style="text-decoration:none" href="https://codepen.io/bryanmax9">Navigate through Front-End Projects</a></p>
+      <p>- 📝 Read my articles: <a style="text-decoration:none" href="https://www.instagram.com/hacker_ducky_ai/">CyberSecurity Blog</a></p>
       <p>- 💬 Ask me about <strong>Web Development, App development, Node.js, Python</strong></p>
       <p>- 📫 Reach me at: <strong>brillant16.gcv@gmail.com</strong></p>
-      <p>- 📄 My resume: <a href="https://drive.google.com/file/d/1zS7BeSBFugk7g5LWpGLnJNcnXhMUnHG1/view?usp=sharing">Download Here</a></p>
+      <p>- 📄 My resume: <a style="text-decoration:none" href="https://drive.google.com/file/d/1zS7BeSBFugk7g5LWpGLnJNcnXhMUnHG1/view?usp=sharing">Download Here</a></p>
       <p>- ⚡ Fun fact: <strong>I love playing the guitar in my free time 🎸</strong></p>
     </td>
   </tr>
@@ -36,13 +36,13 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://www.linkedin.com/in/bryan-tineo/" target="blank">
+  <a style="text-decoration:none" href="https://www.linkedin.com/in/bryan-tineo/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/bryan-tineo/" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://hashnode.com/@bryanmax9" target="blank">
+  <a style="text-decoration:none" href="https://hashnode.com/@bryanmax9" target="blank">
     <img src="https://img.shields.io/badge/Hashnode-%230077B5.svg?&style=for-the-badge&logo=hashnode&logoColor=white" alt="@bryanmax9" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="mailto:brillant16.gcv@gmail.com?subject=Message from GitHub">
+  <a style="text-decoration:none" href="mailto:brillant16.gcv@gmail.com?subject=Message from GitHub">
     <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="brillant16.gcv@gmail.com" />
   </a>&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
@@ -53,7 +53,7 @@
   <summary><b>:computer: &nbsp;Main tech knowledge:</b></summary>
   <br/>
 
-  ![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
+![Java](https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white)&nbsp;
 ![Spring](https://img.shields.io/badge/SPRING-6DB33F.svg?&style=flat&logo=spring&logoColor=white)&nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=flat&logo=html5&logoColor=white)&nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?&style=flat&logo=css3&logoColor=white)&nbsp;
