@@ -12,7 +12,7 @@
 <div align="center">
   <h1>Hi there, I'm Bryan Tineo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture>
-  <h3>A passionate Full Stack Web Developer from the US 🌐</h3>
+  <h3>A passionate Full Stack Web App Developer focused on AI and Machine Learning 🦾</h3>
 </div>
 
 <table>
@@ -20,7 +20,7 @@
     <td><img alt="Coding Tux" width="150" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"></td>
     <td valign="top">
      <td>
-      <p>- 🌱 I’m currently learning <strong>React Native</strong></p>
+      <p>- 🌱 I’m currently learning <strong>React Native and Tensorflow</strong></p>
       <p>- 👨‍💻 Check out my projects: <a style="text-decoration:none" href="https://bryantineoccasani-portafolio-web.netlify.app/">Bryan Tineo's Portfolio</a></p>
       <p>- 📄 My Front-end work: <a style="text-decoration:none" href="https://codepen.io/bryanmax9">Navigate through Front-End Projects</a></p>
       <p>- 📝 Read my articles: <a style="text-decoration:none" href="https://www.instagram.com/hacker_ducky_ai/">CyberSecurity Blog</a></p>
