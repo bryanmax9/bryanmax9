@@ -15,36 +15,8 @@
   <h3>A passionate Full Stack Web App Developer focused on AI and Machine Learning 🦾</h3>
 </div>
 
-<div align="center">
 
-  <h3>🎮 Play some Pokémon while you're here!</h3>
-
-  <!-- Game GIF -->
-  <img src="https://pokemon.farlow.dev/game" alt="Pokémon Game" width="300" />
-
-  <!-- Controller Layout -->
-  <table>
-    <tr>
-      <td></td>
-      <td><a href="https://pokemon.farlow.dev/input/UP">⬆️</a></td>
-      <td></td>
-      <td><a href="https://pokemon.farlow.dev/input/B">🅱️</a></td>
-      <td><a href="https://pokemon.farlow.dev/input/A">🅰️</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://pokemon.farlow.dev/input/LEFT">⬅️</a></td>
-      <td><a href="https://pokemon.farlow.dev/input/DOWN">⬇️</a></td>
-      <td><a href="https://pokemon.farlow.dev/input/RIGHT">➡️</a></td>
-      <td><a href="https://pokemon.farlow.dev/input/START">⏺️</a></td>
-      <td><a href="https://pokemon.farlow.dev/input/SELECT">⏏️</a></td>
-    </tr>
-  </table>
-
-</div>
-
-
-
-
+<table> <tr> <td><img alt="Coding Tux" width="150" src="https://c.tenor.com/NeJfHqkmdMIAAAAi/tux-linux-penguin.gif"></td> <td valign="top"> <td> <p>- 🌱 I’m currently learning <strong>React Native and Tensorflow</strong></p> <p>- 👨‍💻 Check out my projects: <a style="text-decoration:none" href="https://bryantineoccasani-portafolio-web.netlify.app/">Bryan Tineo's Portfolio</a></p> <p>- 📄 My Front-end work: <a style="text-decoration:none" href="https://codepen.io/bryanmax9">Navigate through Front-End Projects</a></p> <p>- 📝 Read my articles: <a style="text-decoration:none" href="https://x.com/bryanmax92001">Machine Learning Blog</a></p> <p>- 💬 Ask me about <strong>Web Development, App development, Node.js, Python</strong></p> <p>- 📫 Reach me at: <strong>brillant16.gcv@gmail.com</strong></p> <p>- 📄 My resume: <a style="text-decoration:none" href="https://drive.google.com/file/d/1zS7BeSBFugk7g5LWpGLnJNcnXhMUnHG1/view?usp=sharing">Download Here</a></p> <p>- ⚡ Fun fact: <strong>I love playing the guitar in my free time 🎸</strong></p> </td> </tr> </table>
 
 
 <h3 align="center">Connect with me:</h3>
