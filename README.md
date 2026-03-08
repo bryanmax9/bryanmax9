@@ -1,14 +1,5 @@
 [![MasterHead](https://upload.wikimedia.org/wikipedia/commons/2/20/Matrix_Digital_rain_banner.gif)](https://rishavchanda.io)
 
-<table align="right">
- <tr><td><a style="text-decoration:none href="README.md"><img src="https://hatscripts.github.io/circle-flags/flags/us.svg" height="13"> English</a></td></tr>
- <tr><td><a style="text-decoration:none href="README_es.md"><img src="https://hatscripts.github.io/circle-flags/flags/es.svg" height="13"> Español</a></td></tr>
- <tr><td><a style="text-decoration:none href="README_jp.md"><img src="https://hatscripts.github.io/circle-flags/flags/jp.svg" height="13"> 日本語</a></td></tr>
- <tr><td><a style="text-decoration:none href="README_pt.md"><img src="https://hatscripts.github.io/circle-flags/flags/pt.svg" height="13"> Português</a></td></tr>
- <tr><td><a style="text-decoration:none href="README_fr.md"><img src="https://hatscripts.github.io/circle-flags/flags/fr.svg" height="13"> Français</a></td></tr>
- <tr><td><a style="text-decoration:none href="README_zh.md"><img src="https://hatscripts.github.io/circle-flags/flags/cn.svg" height="13"> 中文</a></td></tr>
-</table>
-
 <div align="center">
   <h1>Hi there, I'm Bryan Tineo! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
   
